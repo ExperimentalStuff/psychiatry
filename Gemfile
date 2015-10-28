@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
+# introduce bootstrap
+gem 'bootstrap-sass'
+# use simple-form for quick form use
+gem 'simple_form'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'
